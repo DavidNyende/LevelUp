@@ -1,0 +1,8 @@
+{
+  "name": "LevelUp",
+  "app_id": "077ff0f7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
